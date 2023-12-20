@@ -21,7 +21,7 @@ Here are some of the skills I have acquired and technologies I have worked with:
 
 - **Backend:** C# .NET
 - <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-- **Databases:** MySQL
+- **Databases:** MySQL, PostegreSQL
 - **Version Control:** Git, GitHub
 
 ![Davi Vasques's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaviiVasques&show_icons=true&theme=tokyonight)
