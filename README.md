@@ -74,7 +74,7 @@ Here are some of the skills I have acquired and technologies I have worked with:
 
  ## GitHub Stats
 
-![Davi Vasques's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaviiVasques&show_icons=true&theme=tokyonight)
+![Davi Vasques's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaviiVasques&show_icons=true&theme=tokyonight&hide_title=true&hide=stars)
 
 
 ## Get in Touch
